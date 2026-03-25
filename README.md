@@ -11,7 +11,7 @@
 
 ### 🧑‍💼 Professional Summary
 
-Full-Stack Developer with 2.5 years of experience in full stack, debugging, and API development. Skilled in various programming languages, frontend and backend technologies, and database management. Proven ability to create responsive web applications, optimize performance, and ensure high-quality code. Effective in Agile environments, collaborating with cross-functional teams to deliver innovative solutions.
+Full-Stack Developer with 4 years of experience in full stack, debugging, and API development. Skilled in various programming languages, frontend and backend technologies, and database management. Proven ability to create responsive web applications, optimize performance, and ensure high-quality code. Effective in Agile environments, collaborating with cross-functional teams to deliver innovative solutions.
 
 ---
 
